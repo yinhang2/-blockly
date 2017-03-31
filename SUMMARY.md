@@ -1,5 +1,10 @@
 # Summary
 
-* [跟我玩Blockly简介](README.md)
-* [First Chapter](chapter1.md)
+* [简介](README.md)
+* [第一章 Google Blockly教学应用手册](chapter1.md)
+* [第二章 Blockly基础编程](di-er-zhang-blockly-ji-chu-bian-cheng.md)
+* [第三章 Blockly顺序程序设计](di-san-zhang-blockly-shun-xu-cheng-xu-she-ji.md)
+* [第四章 Blockly之选择结构](di-si-zhang-blockly-zhi-xuan-ze-jie-gou.md)
+* 第五章 循环结构
+* 第六章 Blockly的进阶
 
