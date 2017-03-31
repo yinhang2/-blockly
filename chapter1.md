@@ -8,5 +8,5 @@
 #### 2、多种开发语言环境库
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blockly基于图形化编程设计可以导出Javascript、Python、PHP、Lua、Dart等多种语言。通过图形化编程完成程序设计，在Blockly中有一个类似语言转换器的工具箱，可以将图形化编程语言转化成多种编程语言代码。用图形化编程方式去理解多种程序语言。
 #### 3、开源的自定义编程环境
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspBlockly是开源的编程工具，用户可以根据自己编程的特点要求，对Blockly工具箱进行自定义设计。同时，Blockly开发工具能让用户自定义块导出至工具箱，并在工作区工厂完成对代码的封装。如图所示。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blockly是开源的编程工具，用户可以根据自己编程的特点要求，对Blockly工具箱进行自定义设计。同时，Blockly开发工具能让用户自定义块导出至工具箱，并在工作区工厂完成对代码的封装。如图所示。
 <center><img src="/assets/p2.png"/></center>
