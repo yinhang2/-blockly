@@ -10,3 +10,17 @@
 #### 3、开源的自定义编程环境
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blockly是开源的编程工具，用户可以根据自己编程的特点要求，对Blockly工具箱进行自定义设计。同时，Blockly开发工具能让用户自定义块导出至工具箱，并在工作区工厂完成对代码的封装。如图所示。
 <center><img src="/assets/p2.png"/></center>
+## 1.3 Google Blockly的编程环境
+Blockly是一个可用于Web、Android、iOS的可视化代码编辑器库<br>
+#### 1. Blockly在线使用
+打开浏览器，在地址栏输入[https://developers.google.com/blockly/](https://developers.google.com/blockly/)，前往Blockly官网，即可体验编程。如图所示
+<center><img src="/assets/p3.png"/></center>
+#### 2、Blockly的离线环境搭建
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在Github网站或者Blockly主页上找到对应系统的文件包，下载后，无需安装，解压，进入demos目录，打开index.html，选择相应的选项，即可体验。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux系统，可下载TAR Ball，在终端进行文件解压即可；<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Windows系统，可下载ZIP File，并继续解压即可;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Github Blockly地址: https://github.com/google/blockly<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TAR Ball地址: https://github.com/google/blockly/tarball/master<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZIP File地址: https://github.com/google/blockly/zipball/master<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blockly离线使用都是免安装的，只需Clone或解压后，进入demos目录，打开index.html，选择相应的选项，即可体验。
+
