@@ -43,10 +43,9 @@
 <center><img src="/assets/p14.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是，在程序运行过程中，如果数据输入错误或当数据超过程序可表示的范围，数据将会产生错误。例如:
 <center><img src="/assets/p15.png"/></center>
-
-
-
-
+如图可见，当超过16位后的数据不再进行计算，而是原数据输出。例如：
+<center><img src="/assets/p16.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在该循环语句中的重复次数输入模块默认输入数据为正整数。如果输入负数，程序默认为0；如果输入小数，默认在其整数部分上加1。
 
 
 
