@@ -23,4 +23,11 @@ Blockly是一个可用于Web、Android、iOS的可视化代码编辑器库<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TAR Ball地址: https://github.com/google/blockly/tarball/master<br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ZIP File地址: https://github.com/google/blockly/zipball/master<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blockly离线使用都是免安装的，只需Clone或解压后，进入demos目录，打开index.html，选择相应的选项，即可体验。
-
+## 1.4 Google Blockly在中学信息技术课程教育应用优势 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GBlockly 是一个基于 Web 的可视化编程工具，以图形化语言编程，这个新语言的主要目的是为web应用提供宏(或脚本编程)的支持。可以把生成的脚本输出成Javascript, python 等，还可以自定义图形化编程工具。目前可以在中小学利用blockly开始信息技术课程的编程学习，同时结合Arduino开发板，进行创客教育的探索与实践。
+#### 1、基于WEB跨平台的图形化编程软件
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G在中小学信息技术课程中，编程算法的教学工具的选择一直是教师专家探究的主要问题。代码程序的封装使得图形化编程工具的优势越来越明显，在计算机编程方面出现许多优秀的图形化编程工具。Blockly是基于WEB平台的图形化编程工具，可以在任何系统平台进行在线与离线版操作使用编程，也可以在教室主机现场搭建服务器平台，WEB界面实时编程，测试编程结果。
+#### 2、定制自己的编程工具—项目式教学探索
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G目前的Scratch、PencilCode以及APPInventor等流行的图形化编程软件中，由于图形程序模块的局限性，一些特殊功能很难在平台实现。Blockly提供的代码自定义工厂功能，使得用户可以利用集成块编辑器，创建符合自己创作要求的应用程序块。Blockly只是一种生成代码的方法, 你的应用程序的核心在于如何处理该代码。这样一种自定义图形化块的方式可以方便师生在教学任务过程中自定义符合教学功能的模块，实现教学工具的再次开发。
+#### 3、结合开源Arduino进行创新体验编程教学
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;G中小学阶段使用Arduino开源硬件版进行创客课程教学非常普及，使用Blockly平台结合Arduino开源硬件，是构建高中信息技术课堂的STEAM教学项目新探索。学生可以基于图形化编程跨平台创造作品，通过程序功能设计的硬件外化过程，建构跨学科知识课堂。
