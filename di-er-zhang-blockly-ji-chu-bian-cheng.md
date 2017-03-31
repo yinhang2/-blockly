@@ -20,6 +20,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在BLOCKLY中，提供了数据输入模块，其默认一定的存储长度，默认数值为0。
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在一些计算公式中提供了的数据输入模块，如下。
 <center><img src="/assets/p6.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;各模块数据输入只区分数字、字符类型，也就是说在允许输入数字的模块中不允许输入字符，可以输入任何数字。但是在程序具体执行过程中，程序会对输入数字类型的合法性进行检查。
+<center><img src="/assets/p7.png"/></center>
 <strong>(2)字符</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;字符类型的数据,字符在内存中存储的是该字符的ASCII编码值，由于字符数据存储的就是一个字符的编码数值，所以字符数据也可以当做一个整数。在BLOCKLY中的基本表示形式是用“”引用起来，比如“A”、“”Q、“a”、“b”、“#”、“-”、“。”等。使用双引号将一个数字放在引号里面，其意义也表示该数字，和不用引号表示的意义相同,如“65”和65的意义相同。但是大写字母和对应的小写字母对应的ASCII编码值不同，因此为不同的字符。如“A”、 “a”为不同字母。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同样的，在BLOCKLY的字符输入模块中，允许输入任何形式的字符和数字，只要不超出特定的长度都是合法的。只有在程序执行的时候才检查输入是否正确。
