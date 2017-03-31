@@ -16,3 +16,6 @@
 #### 2.Blockly中的数据类型
 <strong>(1)实数</strong>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;程序中所有的数据都有特定类型，数据的表示方式、取值范围以及对数据可以使用的操作都由数据所属的类型决定。类型可以帮助编译程序生成高效的目标代码，编译程序在生成目标代码时，可按需分配存储空间可如何引用这个数据。一个数据属于某个特定的类型后，在数据上允许操作的运算也确定了。例如，整数可以做四则运算等；字符串则可以进行比较、连接、判断子串等，但不能做四则运算。
+<center><img src="/assets/p5.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在BLOCKLY中，提供了数据输入模块，其默认一定的存储长度，默认数值为0。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在一些计算公式中提供了的数据输入模块，如下。
