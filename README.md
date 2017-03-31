@@ -12,10 +12,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;非常感谢帮我们完成这本书的朋友，我们在此向他们致谢：邓文博，Google Blockly教学应用手册；李鹏，Blockly编程基础；胡轶凛，Blockly顺序程序设计；尹航，Blockly之选择结构；漆昱涛，循环结构；郅鹏，Blockly的进阶；魏小辉，进行整本书的修订和审核。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在本书编辑过程中不免有纰漏，欢迎读者批评指正。
 
-<h4 align="right">编者按&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<h4 align="right">兰州&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</h4><br>
+<h6 align="right">编者按&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h6 align="right">兰州&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</h6><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
                                                   
-2017年3月20日
+<h6 align="right">2017年3月20日
