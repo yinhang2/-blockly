@@ -25,4 +25,28 @@
 <strong>(2)字符</strong><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;字符类型的数据,字符在内存中存储的是该字符的ASCII编码值，由于字符数据存储的就是一个字符的编码数值，所以字符数据也可以当做一个整数。在BLOCKLY中的基本表示形式是用“”引用起来，比如“A”、“”Q、“a”、“b”、“#”、“-”、“。”等。使用双引号将一个数字放在引号里面，其意义也表示该数字，和不用引号表示的意义相同,如“65”和65的意义相同。但是大写字母和对应的小写字母对应的ASCII编码值不同，因此为不同的字符。如“A”、 “a”为不同字母。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同样的，在BLOCKLY的字符输入模块中，允许输入任何形式的字符和数字，只要不超出特定的长度都是合法的。只有在程序执行的时候才检查输入是否正确。
+<strong>(3)字符串</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在BLOCKLY中字符串的表示和单个字符的表示形式是一样的<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面几个模块是BLOCKLY提供的字符串输入模块。<br>
+<center><img src="/assets/p8.png"/></center>
+如字符串输入模块：
+<center><img src="/assets/p9.png"/></center>
+如求字符串的长度：
+<center><img src="/assets/p10.png"/></center>
+如小写字符变大写字母：
+<center><img src="/assets/p11.png"/></center>
+如添加字符串：
+<center><img src="/assets/p12.png"/></center>
+<strong>(4)数据使用</strong><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前面讲过，在BLOCKLY中，数据和字符定义过程中程序给了一定的存储空间，BLOCKLY不计较输入数据或字符的类型和长度，程序员不需要考虑非法输入带来的麻烦，这给了程序员极大的方便。如下：
+<center><img src="/assets/p13.png"/></center>
+<center><img src="/assets/p14.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是，在程序运行过程中，如果数据输入错误或当数据超过程序可表示的范围，数据将会产生错误。例如:
+<center><img src="/assets/p15.png"/></center>
+
+
+
+
+
+
 
