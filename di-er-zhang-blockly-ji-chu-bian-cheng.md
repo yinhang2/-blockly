@@ -9,3 +9,7 @@
 <strong>(2)十进制表示</strong>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十进制形式是我们最熟悉的表达形式，十进制数的书写规则是由正负号开头，后跟一个自然数的形式，如果是正数，正号可以省略。例如：-213、0、415、76、+83都是合法的整数。在BLOCKLY中，如不特殊定义，所有数一般默认为十进制。
 <center><img src="/assets/p4.png"/></center>
+<strong>(3)八进制形式</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用八进制形式表示一个整数，八进制数的书写规则是以数字0开头，后跟一个八进制形式的数，如果是负数，则以负号开头。例如：0123、-087、00、+0327等都是合法的八进制形式。
+<strong>(4)十六进制形式</strong>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以“0x”开头，后跟一个十六进制数，例如：0xFF03、0x123、0xAC7等都是合法的十六进制形式，而x37、287都是非法的十六进制形式。
