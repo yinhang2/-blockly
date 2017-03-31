@@ -46,6 +46,12 @@
 如图可见，当超过16位后的数据不再进行计算，而是原数据输出。例如：
 <center><img src="/assets/p16.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在该循环语句中的重复次数输入模块默认输入数据为正整数。如果输入负数，程序默认为0；如果输入小数，默认在其整数部分上加1。
-
-
+## 2.2变量的定义和赋值
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上一节讲的数据和字符，当给定一个值后，在程序中是确定的不能改变的量，我们称为常量，而与之对应的就是变量，顾名思义，就是在程序中经常需要改变的量。
+### 2.2.1变量定义
+<center><img src="/assets/p17.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上图为BLOCKLY提供的变量表定义方式，变量的命名方式比较随便，不受限于数字或字符，但是我们为了使用方便，尽量选用简单明了的字符，避免与程序中的其他名称重复。并且BLOCKLY提供的变量定义不区分类型，只是在内存中分配一定的存储空间。
+### 2.2.2变量的初始化
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分变量需要进行初始化，变量的初始化不是必须的，根据需要可初始化或者不初始化。
+<center><img src="/assets/p18.png"/></center>
 
