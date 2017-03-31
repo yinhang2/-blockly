@@ -58,3 +58,6 @@
 ### 2.3.1表达式的概念
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运算符是指用来表示在数据上执行某些特定操作的符号。参与运算的数据称为操作数。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据参与运算的操作数的个数是一个、两个或三个，运算符分为一元运算符、二元运算符和三元运算符。表达式是指用运算符和圆括号把常量、变量和函数等运算成分连接起来的有意义的式子。单个常量、变量和函数也都可以看成是一个表达式。表达式经过计算后都会得到一个确定的值，这个值就是表达式的值。每个表达式都具有唯一确定的值和唯一确定的类型。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中每一个单独的模块即为一个表达式。如:
+<center><img src="/assets/p19.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上模块在输入正确的数据后均为合法的表达式。
