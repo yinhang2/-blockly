@@ -44,7 +44,12 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它可以根据后面所接的不同的语句块而输出不同的数据，例如：
 <center><img src="/assets/p39.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它输出的是两个数字的和。
-
-
+<center><img src="/assets/p40.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而打印
+“hello，my name is zhangwei”则是在屏幕上输出这一段文本。
+<center><img src="/assets/p41.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而在这一段文本的前面加上另一个数据块则又是另外一种效果  如:
+<center><img src="/assets/p42.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上面这一行数据模块则是输出的这段文本的长度。
 
 
