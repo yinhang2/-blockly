@@ -76,3 +76,4 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）%   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   求余数运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）^   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   次方幂运算<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基本算术运算符的表达式格式为：<操作数>运算符<操作数>。BLOCKLY中给出的模块为：
+<center><img src="/assets/p12.png"/></center>
