@@ -30,3 +30,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在c语言的学习中，我们可以知道赋值语句是由赋值表达式加上一个分号构成。而在Blockly语言中，赋值语句是由如下一个语句块构成：
 <center><img src="/assets/p35.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中i 指的是一个变量，也可以用其它字母代替，在to 后面紧跟着的是要赋给i 的值。同样的，这个赋值表达式也可以包括在其它表达式中，例如：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中i 指的是一个变量，也可以用其它字母代替，在to 后面紧跟着的是要赋给i 的值。同样的，这个赋值表达式也可以包括在其它表达式中，例如：
+<center><img src="/assets/p36.png"/></center>
+
