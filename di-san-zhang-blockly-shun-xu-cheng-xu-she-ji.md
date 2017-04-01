@@ -42,6 +42,8 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们先来介绍Blockly语言的输出语句块：
 <center><img src="/assets/p38.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它可以根据后面所接的不同的语句块而输出不同的数据，例如：
+<center><img src="/assets/p39.png"/></center>
+
 
 
 
