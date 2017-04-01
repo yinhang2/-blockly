@@ -32,4 +32,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中i 指的是一个变量，也可以用其它字母代替，在to 后面紧跟着的是要赋给i 的值。同样的，这个赋值表达式也可以包括在其它表达式中，例如：
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中i 指的是一个变量，也可以用其它字母代替，在to 后面紧跟着的是要赋给i 的值。同样的，这个赋值表达式也可以包括在其它表达式中，例如：
 <center><img src="/assets/p36.png"/></center>
+if 后面跟着的是一个条件，例如可以是
+<center><img src="/assets/p37.png"/></center>
+其作用是当i 大于零时，将一个值赋给i。
+## 3.3 Blockly 语言的输入与输出
+
 
