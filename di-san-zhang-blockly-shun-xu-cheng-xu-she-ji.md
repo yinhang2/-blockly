@@ -25,3 +25,4 @@
 <center><img src="/assets/p33.png"/></center>
 #### (8)Functions 函数块
 <center><img src="/assets/p34.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当学生学习了新的函数或者命令，就可以使用这些Blockly语句块进行联系，所有的块被组织排放在左侧的列表中，使用时根据正确的语法和适当的缺口对接就能实现预定的功能。因此，我们可以通过对块进行适当的组织就能轻松的实现每一个新的想法和创意。<br>
