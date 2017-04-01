@@ -51,5 +51,14 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而在这一段文本的前面加上另一个数据块则又是另外一种效果  如:
 <center><img src="/assets/p42.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上面这一行数据模块则是输出的这段文本的长度。
-
-
+<center><img src="/assets/p43.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例&nbsp;&nbsp;输出字符串“Hello World!”
+<center><img src="/assets/p44.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这段程序将会输出三次Hello World!，在程序中，我们先将步长的值设置为1，当步长的值小于等于3的时候进入repeat循环，在屏幕上输出Hello World！的字样然后将步长的值加1加赋值给步长,直到步长的值大于3时将不再进入循环，所以我们不难知道，这段程序将会在屏幕上输出三次Hello World!的字样。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;介绍完输出的语句块之后，让我们再来介绍输入的语句块，Blockly语言的输入语句块为<br>
+<center><img src="/assets/p45.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这个输入语句块输入的既能是文本，也可以是数字，通过语句中间的选项可以进行不同的选择，当我们运行这句语句块的时候，屏幕同样会弹出一个文本框，这个时候我们就能在文本框里面输入我们想带入计算机的数据，点击确认后，我们所输入的数据就将会进入我们所设置的变量里面，下图便是我们输入数据的界面:<br>
+<center><img src="/assets/p46.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过上面简单的介绍，同学们可能对输入的理解还不够深刻，下面让我们来举一个具体的例子。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，让我们设置一个变量a，然后再将上面的输入语句块连接在设置变量语句块的后面，点击运行，在出现的为文本框里面输入我们想要输入的数据，点击确认以后，数据就会被赋值给a了，如果同学们想确认a的值是不是真的是我们所输入的数据，可以在这段数据块的下面加上输出数据块，将a的数据输出到屏幕上，这样我们就能确认a的值了。<br>
+<center><img src="/assets/p47.png"/></center>
