@@ -68,4 +68,11 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例&nbsp;&nbsp从键盘输入一个大写字母，要求改用小写字母输出。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看到这个题目，同学们首先想到的是什么呢?在前面介绍的几个Blockly模板中大家会首先想到哪个语句块?或许记忆力好的同学已经想到，在我们介绍到的Text板块中就有一个语句块是用来转换大小写的:
 <center><img src="/assets/p50.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这个语句块使用起来相当简单，只需要将你需要转换的文本连接在此语句块的后面就行了，此语句块同样能根据需求不同产生三种不同的效果，我们所做的只要改变语句块中的选项罢了。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然已经找到了这个问题所需要的核心语句，那么后面的问题就简单了，不难看出这个题目同时用到了输入和输出，所以我们只需要设置一个变量用来存放我们所输入的数据，然后将输入的数据转化成小写并输出，这个问题就解决了。所组成的数据块如下：<br>
+<center><img src="/assets/p51.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行结果如下：
+<center><img src="/assets/p52.png"/></center>
+<center><img src="/assets/p53.png"/></center>
+
 
