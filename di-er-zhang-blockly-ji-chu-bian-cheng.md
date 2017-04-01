@@ -108,4 +108,6 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 ## 课后练习
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.对于计算机而言，无论是数字、字母、符号，在计算机中都是以0、1的形式存储和计算，但是他们在BLOCKLY中有不同的运算规则，为什么？<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.分别求出a=3，b=a+3，b>a三个表达式的值和变量a或b的值，认真思考表达式的值和变量的值有什么区别？
+---
+---
 <center><img src="/assets/p24.png"/></center>
