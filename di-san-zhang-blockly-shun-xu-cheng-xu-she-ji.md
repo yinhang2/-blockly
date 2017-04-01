@@ -74,5 +74,13 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行结果如下：
 <center><img src="/assets/p52.png"/></center>
 <center><img src="/assets/p53.png"/></center>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例&nbsp;&nbsp;输入一个两位数，如果这两位相乘大于两位相加，则输出“大”这个字。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在同学们第一次见到这个题目时，可能会感到有点手足无措，但其实我们一步步分析就会发现这个题目不过如此，在解决这个问题前，我们首先要搞清楚怎么根据输入的俩位数分别得到个位数和十位数，如果大家曾经接触过其它语言，就会知道俩位数 除以10得到的商就是十位上的数字，而得到的余数就是个位上的数字，在弄清楚这个问题以后，这个题目同样变得不堪一击了。具体数据块如下：
+<center><img src="/assets/p54.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这个组好的数据块里，我们首先将输入的俩位数存到ab这个变量里面，然后将计算得出的个位数和十位数分别赋值给b和a，再利用我们前面提到的logic模板里面的if语句块判断大小，最后输出。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行过程与结果如下：
+<center><img src="/assets/p55.png"/></center>
+<center><img src="/assets/p56.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过本章的讲解，相信大家对Blockly语言的顺序程序设计有了大概的了解，也对输入输出有了清晰的认识，语言的顺序程序设计在同学们今后的语言学习中起着相当重要的作用，希望能引起大家的重视。<br>
+## 课后练习
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、对两个整数变量的值进行互换。
