@@ -62,3 +62,10 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过上面简单的介绍，同学们可能对输入的理解还不够深刻，下面让我们来举一个具体的例子。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，让我们设置一个变量a，然后再将上面的输入语句块连接在设置变量语句块的后面，点击运行，在出现的为文本框里面输入我们想要输入的数据，点击确认以后，数据就会被赋值给a了，如果同学们想确认a的值是不是真的是我们所输入的数据，可以在这段数据块的下面加上输出数据块，将a的数据输出到屏幕上，这样我们就能确认a的值了。<br>
 <center><img src="/assets/p47.png"/></center>
+<center><img src="/assets/p48.png"/></center>
+<center><img src="/assets/p49.png"/></center>
+## 3.4 顺序结构程序设计举例
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例&nbsp;&nbsp从键盘输入一个大写字母，要求改用小写字母输出。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看到这个题目，同学们首先想到的是什么呢?在前面介绍的几个Blockly模板中大家会首先想到哪个语句块?或许记忆力好的同学已经想到，在我们介绍到的Text板块中就有一个语句块是用来转换大小写的:
+<center><img src="/assets/p50.png"/></center>
+
