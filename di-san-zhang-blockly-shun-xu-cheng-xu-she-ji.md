@@ -36,5 +36,12 @@ if 后面跟着的是一个条件，例如可以是
 <center><img src="/assets/p37.png"/></center>
 其作用是当i 大于零时，将一个值赋给i。
 ## 3.3 Blockly 语言的输入与输出
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当计算机被用于和外界交互时才是最有趣的，所谓的输入与输出是以计算机主机为主体而言的。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;输入就是将数据从输入设备带入计算机 (如键盘，磁盘，光盘，扫描仪等)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;输出就是将数据从计算机发送到外部输出设备（如显示屏，打印机，磁盘等），输入输出有时候并称为I/O。有许多种类的I/O，包括人机界面，网络接口，存储设备接口和自动机器接口。计算机在处理各种输入输出上有许多共同点，无论是与一个人，一个文件或其他一些设备进行交互。用户可以通过只学习如何创建用户界面来学习重要的I/O技术。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们先来介绍Blockly语言的输出语句块：
+<center><img src="/assets/p38.png"/></center>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它可以根据后面所接的不同的语句块而输出不同的数据，例如：
+
 
 
