@@ -87,4 +87,13 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   大于运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 关系运算符的表达式格式为：<操作数>运算符<操作数>。BLOCKLY中给出的模块为：<br>
 <center><img src="/assets/p21.png"/></center>
-
+#### （3）逻辑运算
+逻辑运算符有3种：
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）&&   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   逻辑或运算符 <br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）||   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     逻辑与运算符<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）!     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   逻辑非运算符<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逻辑运算符的表达式格式为：<操作数>运算符<操作数>和运算符<操作数>两种形式。BLOCKLY中给出的模块为：<br>
+<center><img src="/assets/p22.png"/></center>
+#### （4）赋值运算
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中赋值运算与变量初始化的表达式相同。
+### 2.3.3运算表达式的值
