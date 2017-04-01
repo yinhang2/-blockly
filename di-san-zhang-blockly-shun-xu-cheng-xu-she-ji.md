@@ -8,7 +8,7 @@
 <center><img src="/assets/p26.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这个游戏中，我们最需要弄清楚的是每个数据块执行的顺序，以及我们应该如何摆放它才能让小人顺利的到达终点，这就引出了本章的重点，Blockly语言的顺序程序设计。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在本章的学习中，我们将学习到几种顺序执行的语句，在这些语句的执行过程中不会发生流程控制的转移，比如赋值语句，输入输出语句。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在讲解Blockly语言的顺序程序设计之前，让我们先来对Blockly语言做一个总的概述，Blockly语言总共分为8个板块。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在讲解Blockly语言的顺序程序设计之前，让我们先来对Blockly语言做一个总的概述，Blockly语言总共分为8个板块。
 #### （1）Logic ,表明数据间的逻辑关系。
 <center><img src="/assets/p27.png"/></center>
 #### （2）Loops 循环控制
