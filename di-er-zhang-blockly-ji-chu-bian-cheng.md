@@ -97,3 +97,8 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 #### （4）赋值运算
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中赋值运算与变量初始化的表达式相同。
 ### 2.3.3运算表达式的值
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）单个常量或变量的表达式，其值为常量或变量的值。如98、“8”、X,其值分别为98、8、X的值。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）算术运算表达式的值为其运算结果。如3+2、5-6、4*8，值分别为5、-1、32。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）关系运算表达式的值只有两个：1和0（真或假）。如4<2、2>1、1=2,值分别为0、1、0。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）逻辑运算表达式的值只有两个：1和0（真或假）。如(x<10) || (x>20)、!(3>2)，其值为0、0。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）赋值运算的值即为所赋的值。如a=3,b=6,其值为3、6。<br>
