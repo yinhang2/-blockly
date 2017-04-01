@@ -18,4 +18,10 @@
 #### （4）text 文本块
 <center><img src="/assets/p30.png"/></center>
 #### (5) list 列表块
-
+<center><img src="/assets/p31.png"/></center>
+#### (6) Colour 颜色块
+<center><img src="/assets/p32.png"/></center>
+#### (7) Variables 变量块
+<center><img src="/assets/p33.png"/></center>
+#### (8)Functions 函数块
+<center><img src="/assets/p34.png"/></center>
