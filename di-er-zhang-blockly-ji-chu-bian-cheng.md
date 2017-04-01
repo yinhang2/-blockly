@@ -61,3 +61,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中每一个单独的模块即为一个表达式。如:
 <center><img src="/assets/p19.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上模块在输入正确的数据后均为合法的表达式。
+### 2.3.2运算符运算表达式
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常用的几类运算符：<br>
+（1）算术运算符   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          (+  -  *  /   %  ^)
+（2）关系运算符    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        （>  <  >=  <=  =  !=）
+（3）逻辑运算符    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        （&&  ||   !）
+（4）赋值运算符    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        （=）
