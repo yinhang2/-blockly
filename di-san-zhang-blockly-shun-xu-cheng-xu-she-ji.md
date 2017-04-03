@@ -64,6 +64,7 @@ if 后面跟着的是一个条件，例如可以是
 <center><img src="/assets/p47.png"/></center>
 <center><img src="/assets/p48.png"/></center>
 <center><img src="/assets/p49.png"/></center>
+
 ## 3.4 顺序结构程序设计举例
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;例&nbsp;&nbsp从键盘输入一个大写字母，要求改用小写字母输出。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;看到这个题目，同学们首先想到的是什么呢?在前面介绍的几个Blockly模板中大家会首先想到哪个语句块?或许记忆力好的同学已经想到，在我们介绍到的Text板块中就有一个语句块是用来转换大小写的:
