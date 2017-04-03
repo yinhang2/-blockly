@@ -201,3 +201,47 @@
 ④当所有的信息全部填写完成，还要进行一次大的判断，就是所有条件全部满足时，即所有条件全都为真时，就会显示注册成功，否则就会弹出必须还要填写什么必要信息。<br>
 
 理解嵌套循环了么，现在我们再来回顾开篇的例子，看看你能否做出答案。参考答案如下：
+<table border="1">
+<tr>
+<td>
+    1.<center><img src="/assets/p58.png"/></center>
+</td>
+<td>
+    2.<center><img src="/assets/p59.png"/></center>
+</td>
+</tr>
+<tr>
+<td>
+    3.<center><img src="/assets/p60.png"/></center>
+</td>
+<td>
+    4.<center><img src="/assets/p61.png"/></center>
+</td>
+</tr>
+<tr>
+<td>
+    5.<center><img src="/assets/p62.png"/></center>
+</td>
+<td>
+    6.<center><img src="/assets/p63.png"/></center>
+</td>
+</tr>
+<tr>
+<td>
+    7.<center><img src="/assets/p64.png"/></center>
+</td>
+<td>
+    8.<center><img src="/assets/p65.png"/></center>
+</td>
+</tr>
+<tr>
+<td>
+    9.<center><img src="/assets/p66.png"/></center>
+</td>
+<td>
+    10.<center><img src="/assets/p67.png"/></center>
+</td>
+</tr>
+</table>
+
+## 课后练习
