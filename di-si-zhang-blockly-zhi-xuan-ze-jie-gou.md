@@ -71,4 +71,18 @@
 ## 4.2 逻辑运算符和逻辑表达式
 ### 4.2.1逻辑运算符及其优先级
 &emsp;逻辑运算符包括与、或、非，在我们的blockly中，如下图所示去表示分别为和、或、非。
+<center><img src="/assets/p69.png"/></center>
+逻辑和，a 和 b，当且仅当a，都为真时，结果为真。<br>
+逻辑或，a 或 b，只要a，b中有一个为真，结果就为真。<br>
+逻辑非，非 a，如果a为真，则结果为假，如果a为假，那么结果为真。<br>
+我们用图表的形式来表示如下：<br>
+<table border="1">
+<tr>
+<td>a</td>
+<td>b</td>
+<td>a and b</td>
+<td>a or b</td>
+<td>not a</td>
 
+</tr>
+</table>
