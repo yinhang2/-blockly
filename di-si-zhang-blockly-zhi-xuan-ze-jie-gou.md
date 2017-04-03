@@ -139,5 +139,12 @@
 &emsp;转化为代码就是这样：
 <center><img src="/assets/p72.png"/></center>
 
-
+## 4.3 条件语句-if
+### 4.3.1选择结构之if语句
+&emsp;Blockly中的if语句表示选择条件，如果满足条件就执行“......”语句，在if的左侧有一个设置按钮，点开后可以添加else if和else语句，表示多重判断，你可以将左侧的模块儿拖到if下面就形成了其它三种语句。
+<center><img src="/assets/p73.png"/></center>
+&emsp;比如这个例子：
+&emsp;班里面要做一个成绩统计，成绩在90分以上就输出A，在80-90分之间就输出B，80分以下输出C：<br>
+<center><img src="/assets/p74.png"/></center>
+&emsp;我们进行到这里这个程序你大致就应该明白了上面的代码究竟写的是什么内容，第一句话就是从键盘获取一个分数赋值给score这个变量，如果90 < score < 100那么就输出A，在80 < score <90之间输出B，其余的输出C。
 
