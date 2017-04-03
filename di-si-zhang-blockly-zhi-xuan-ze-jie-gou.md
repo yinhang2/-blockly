@@ -166,6 +166,12 @@
 “to result append text”这个语句是字符串追加的意思，就是我们不仅仅只输出一个数字，而是输出整个结果，比如2>1，2=2，2<3这样的结果。
 <center><img src="/assets/p80.png"/></center>
 
+输出结果如下所示：
+<center><img src="/assets/p81.png"/></center>
+<center><img src="/assets/p82.png"/></center>
+<center><img src="/assets/p83.png"/></center>
+
+
 
 
 
