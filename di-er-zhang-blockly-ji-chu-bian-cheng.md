@@ -71,7 +71,7 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）关系运算符    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        （>  <  >=  <=  =  !=）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）逻辑运算符    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        （&&  ||   !）<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）赋值运算符    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        （=）<br>
-#### （1）基本算术运算符
+#### 1.基本算术运算符
 基本算术运算有6种运算符：<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    加法运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    减法运算符<br>
@@ -81,7 +81,8 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）^   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   次方幂运算<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基本算术运算符的表达式格式为：<操作数>运算符<操作数>。BLOCKLY中给出的模块为：
 <center><img src="/assets/p12.png"/></center>
-#### （2）关系运算
+
+#### 2.关系运算
 关系运算符有6种：<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）=   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    等于运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）≠    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  不等于法运算符<br>
@@ -91,24 +92,27 @@ BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常�
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（6）>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   大于运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 关系运算符的表达式格式为：<操作数>运算符<操作数>。BLOCKLY中给出的模块为：<br>
 <center><img src="/assets/p21.png"/></center>
-#### （3）逻辑运算
+
+#### 3.逻辑运算
 逻辑运算符有3种：
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）&&   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   逻辑或运算符 <br>   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）||   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     逻辑与运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）!     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   逻辑非运算符<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;逻辑运算符的表达式格式为：<操作数>运算符<操作数>和运算符<操作数>两种形式。BLOCKLY中给出的模块为：<br>
 <center><img src="/assets/p22.png"/></center>
-#### （4）赋值运算
+
+#### 4.赋值运算
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中赋值运算与变量初始化的表达式相同。
 ### 2.3.3运算表达式的值
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（1）单个常量或变量的表达式，其值为常量或变量的值。如98、“8”、X,其值分别为98、8、X的值。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（2）算术运算表达式的值为其运算结果。如3+2、5-6、4*8，值分别为5、-1、32。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（3）关系运算表达式的值只有两个：1和0（真或假）。如4<2、2>1、1=2,值分别为0、1、0。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（4）逻辑运算表达式的值只有两个：1和0（真或假）。如(x<10) || (x>20)、!(3>2)，其值为0、0。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）赋值运算的值即为所赋的值。如a=3,b=6,其值为3、6。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（5）赋值运算的值即为所赋的值。如a=3,b=6,其值为3、6。
 ### 2.3.4运算符的优先级
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中与其他编程语言不同，不需要太多的考虑运算符的优先级问题，因为BLOCKLY将不同的运算符集成在不同的模块中，在使用中以模块嵌套的形式形式出现，因此其运算顺序只能是由里到外。如：<br>
 <center><img src="/assets/p23.png"/></center>
+
 ## 课后练习
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.对于计算机而言，无论是数字、字母、符号，在计算机中都是以0、1的形式存储和计算，但是他们在BLOCKLY中有不同的运算规则，为什么？<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.分别求出a=3，b=a+3，b>a三个表达式的值和变量a或b的值，认真思考表达式的值和变量的值有什么区别？
