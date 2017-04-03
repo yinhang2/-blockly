@@ -35,8 +35,8 @@
 <center><img src="/assets/p36.png"/></center>
 if 后面跟着的是一个条件，例如可以是
 <center><img src="/assets/p37.png"/></center>
-其作用是当i 大于零时，将一个值赋给i。
 
+其作用是当i 大于零时，将一个值赋给i。
 ## 3.3 Blockly 语言的输入与输出
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当计算机被用于和外界交互时才是最有趣的，所谓的输入与输出是以计算机主机为主体而言的。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;输入就是将数据从输入设备带入计算机 (如键盘，磁盘，光盘，扫描仪等)<br>
@@ -84,7 +84,8 @@ if 后面跟着的是一个条件，例如可以是
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运行过程与结果如下：
 <center><img src="/assets/p55.png"/></center>
 <center><img src="/assets/p56.png"/></center>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过本章的讲解，相信大家对Blockly语言的顺序程序设计有了大概的了解，也对输入输出有了清晰的认识，语言的顺序程序设计在同学们今后的语言学习中起着相当重要的作用，希望能引起大家的重视。<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过本章的讲解，相信大家对Blockly语言的顺序程序设计有了大概的了解，也对输入输出有了清晰的认识，语言的顺序程序设计在同学们今后的语言学习中起着相当重要的作用，希望能引起大家的重视。
 ## 课后练习
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1、对两个整数变量的值进行互换。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2、如果是做单项选择题，请根据给定的选项，输出对应的结果。<br>
