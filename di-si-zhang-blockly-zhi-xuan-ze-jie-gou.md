@@ -228,7 +228,7 @@
 </tr>
 <tr>
 <td>
-    7.<center><img src="/assets/99.png"/></center>
+    7.<center><img src="/assets/p99.png"/></center>
 </td>
 <td>
     8.<center><img src="/assets/p100.png"/></center>
