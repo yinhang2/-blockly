@@ -171,6 +171,9 @@
 <center><img src="/assets/p82.png"/></center>
 <center><img src="/assets/p83.png"/></center>
 
+&emsp;②三个数比较大小时，情况就比较复杂了，还要从小到大进行输出，这就不仅仅需要进行比较了，而且还需要进行排序，这就需要了解在程序中怎样去交换两个变量，我们来举一个现实中的例子，现在我们有两杯水，我们怎样去交换这两杯水呢？
+<center><img src="/assets/p84.png"/></center>
+
 
 
 
