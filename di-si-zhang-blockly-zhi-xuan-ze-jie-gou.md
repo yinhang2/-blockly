@@ -147,4 +147,6 @@
 &emsp;班里面要做一个成绩统计，成绩在90分以上就输出A，在80-90分之间就输出B，80分以下输出C：<br>
 <center><img src="/assets/p74.png"/></center>
 &emsp;我们进行到这里这个程序你大致就应该明白了上面的代码究竟写的是什么内容，第一句话就是从键盘获取一个分数赋值给score这个变量，如果90 < score < 100那么就输出A，在80 < score <90之间输出B，其余的输出C。
+<center><img src="/assets/p75.png"/></center>
+<center><img src="/assets/p76.png"/></center>
 
