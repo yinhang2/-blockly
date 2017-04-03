@@ -51,16 +51,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上一节讲的数据和字符，当给定一个值后，在程序中是确定的不能改变的量，我们称为常量，而与之对应的就是变量，顾名思义，就是在程序中经常需要改变的量。
 ### 2.2.1变量定义
 <center><img src="/assets/p17.png"/></center>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上图为BLOCKLY提供的变量表定义方式，变量的命名方式比较随便，不受限于数字或字符，但是我们为了使用方便，尽量选用简单明了的字符，避免与程序中的其他名称重复。并且BLOCKLY提供的变量定义不区分类型，只是在内存中分配一定的存储空间。
 ### 2.2.2变量的初始化
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;部分变量需要进行初始化，变量的初始化不是必须的，根据需要可初始化或者不初始化。
 <center><img src="/assets/p18.png"/></center>
+
 ## 2.3表达式和数据的运算
 ### 2.3.1表达式的概念
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运算符是指用来表示在数据上执行某些特定操作的符号。参与运算的数据称为操作数。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据参与运算的操作数的个数是一个、两个或三个，运算符分为一元运算符、二元运算符和三元运算符。表达式是指用运算符和圆括号把常量、变量和函数等运算成分连接起来的有意义的式子。单个常量、变量和函数也都可以看成是一个表达式。表达式经过计算后都会得到一个确定的值，这个值就是表达式的值。每个表达式都具有唯一确定的值和唯一确定的类型。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BLOCKLY中每一个单独的模块即为一个表达式。如:
 <center><img src="/assets/p19.png"/></center>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上模块在输入正确的数据后均为合法的表达式。
 ### 2.3.2运算符运算表达式
 BLOCKLY中含盖了日常使用的所有运算符，我们主要认识一下常用的几类运算符：<br>
