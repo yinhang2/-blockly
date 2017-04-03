@@ -58,7 +58,7 @@
 &emsp;（2）关系运算符的优先级低于算术运算符。<br>
 &emsp;（3）关系运算符的优先级高于赋值运算符。<br>
 举几个例子：
-<center>c > a+b       &emsp;&emsp;&emsp;     c > (a+b)<br>
-a > b == c      &emsp;&emsp;&emsp;      (a > b) == c<br>
-a==b<c   	&emsp;&emsp;&emsp;			a==(b<c)<br>
-a=b>c    	&emsp;&emsp;&emsp;			a=(b>c)<br></center>
+<center>(1)c > a+b       &emsp;&emsp;&emsp;     c > (a+b)<br>
+(2)a > b == c      &emsp;&emsp;&emsp;      (a > b) == c<br>
+(3)a==b<c   	&emsp;&emsp;&emsp;			a==(b<c)<br>
+(4)a=b>c    	&emsp;&emsp;&emsp;			a=(b>c)<br></center>
