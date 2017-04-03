@@ -11,6 +11,8 @@
 <td>
     <center><img src="/assets/p58.png"/></center>
 </td>
-<td></td>
+<td>
+    <center><img src="/assets/p58.png"/></center>
+</td>
 </tr>
 </table>
