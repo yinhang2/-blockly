@@ -37,6 +37,7 @@ if 后面跟着的是一个条件，例如可以是
 <center><img src="/assets/p37.png"/></center>
 
 其作用是当i 大于零时，将一个值赋给i。
+
 ## 3.3 Blockly 语言的输入与输出
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当计算机被用于和外界交互时才是最有趣的，所谓的输入与输出是以计算机主机为主体而言的。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;输入就是将数据从输入设备带入计算机 (如键盘，磁盘，光盘，扫描仪等)<br>
