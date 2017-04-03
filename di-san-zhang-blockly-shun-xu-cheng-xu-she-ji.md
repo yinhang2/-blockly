@@ -9,21 +9,22 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这个游戏中，我们最需要弄清楚的是每个数据块执行的顺序，以及我们应该如何摆放它才能让小人顺利的到达终点，这就引出了本章的重点，Blockly语言的顺序程序设计。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在本章的学习中，我们将学习到几种顺序执行的语句，在这些语句的执行过程中不会发生流程控制的转移，比如赋值语句，输入输出语句。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在讲解Blockly语言的顺序程序设计之前，让我们先来对Blockly语言做一个总的概述，Blockly语言总共分为8个板块。
-#### （1）Logic ,表明数据间的逻辑关系。
+
+<strong>（1）Logic ,表明数据间的逻辑关系。</strong>
 <center><img src="/assets/p27.png"/></center>
-#### （2）Loops 循环控制
+<strong>（2）Loops 循环控制</strong>
 <center><img src="/assets/p28.png"/></center>
-#### （3）Math 数学运算模块 
+<strong>（3）Math 数学运算模块 </strong>
 <center><img src="/assets/p29.png"/></center>
-#### （4）text 文本块
+<strong>（4）text 文本块</strong>
 <center><img src="/assets/p30.png"/></center>
-#### (5) list 列表块
+<strong> (5) list 列表块</strong>
 <center><img src="/assets/p31.png"/></center>
-#### (6) Colour 颜色块
+<strong> (6) Colour 颜色块</strong>
 <center><img src="/assets/p32.png"/></center>
-#### (7) Variables 变量块
+<strong> (7) Variables 变量块</strong>
 <center><img src="/assets/p33.png"/></center>
-#### (8)Functions 函数块
+<strong> (8)Functions 函数块</strong>
 <center><img src="/assets/p34.png"/></center>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当学生学习了新的函数或者命令，就可以使用这些Blockly语句块进行联系，所有的块被组织排放在左侧的列表中，使用时根据正确的语法和适当的缺口对接就能实现预定的功能。因此，我们可以通过对块进行适当的组织就能轻松的实现每一个新的想法和创意。<br>
 ## 3.2 赋值语句
