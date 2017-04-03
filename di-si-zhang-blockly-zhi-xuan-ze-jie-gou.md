@@ -60,5 +60,5 @@
 举几个例子：
 <center>(1)c > a+b       &emsp;&emsp;&emsp;     c > (a+b)<br>
 (2)a > b == c      &emsp;&emsp;&emsp;      (a > b) == c<br>
-(3)a==b<c   	&emsp;&emsp;&emsp;			a==(b<c)<br>
+(3)a==b<c     &emsp;&emsp;&emsp;        a==(b<c)<br>
 (4)a=b>c    	&emsp;&emsp;&emsp;			a=(b>c)<br></center>
