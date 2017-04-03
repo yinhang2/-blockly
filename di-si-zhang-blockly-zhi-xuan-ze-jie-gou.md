@@ -8,7 +8,9 @@
 你可以先尝试着看看鸟应该怎样去运动，并如何调用代码块。稍后我们将会详细介绍关于选择结构的各种语法。<br>
 <table border="1">
 <tr>
-<td></td>
+<td>
+    <center><img src="/assets/p58.png"/></center>
+</td>
 <td></td>
 </tr>
 </table>
