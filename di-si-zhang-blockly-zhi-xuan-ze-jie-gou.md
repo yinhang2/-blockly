@@ -150,3 +150,17 @@
 <center><img src="/assets/p75.png"/></center>
 <center><img src="/assets/p76.png"/></center>
 
+我们把刚才闰年的那个例子用编程来实现：
+<center><img src="/assets/p77.png"/></center>
+
+运行结果如下：
+
+<center><img src="/assets/p79.png"/></center>
+<center><img src="/assets/p78.png"/></center>
+
+
+
+
+
+
+
