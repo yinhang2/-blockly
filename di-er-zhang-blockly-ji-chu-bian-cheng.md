@@ -45,6 +45,7 @@
 <center><img src="/assets/p15.png"/></center>
 如图可见，当超过16位后的数据不再进行计算，而是原数据输出。例如：
 <center><img src="/assets/p16.png"/></center>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在该循环语句中的重复次数输入模块默认输入数据为正整数。如果输入负数，程序默认为0；如果输入小数，默认在其整数部分上加1。
 ## 2.2变量的定义和赋值
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上一节讲的数据和字符，当给定一个值后，在程序中是确定的不能改变的量，我们称为常量，而与之对应的就是变量，顾名思义，就是在程序中经常需要改变的量。
