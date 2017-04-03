@@ -137,5 +137,7 @@
 &emsp;那么非闰年就直接在前面加一个！符号就好了<br>
 &emsp;！（（year % 4 == 0 && year % 100 ！=0）|| year % 400 == 0）<br>
 &emsp;转化为代码就是这样：
+<center><img src="/assets/p72.png"/></center>
+
 
 
