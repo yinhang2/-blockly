@@ -77,6 +77,7 @@
 逻辑或，a 或 b，只要a，b中有一个为真，结果就为真。<br>
 逻辑非，非 a，如果a为真，则结果为假，如果a为假，那么结果为真。<br>
 我们用图表的形式来表示如下：<br>
+<center>
 <table border="1" align=center>
 <tr>
 <td>a</td>
@@ -115,3 +116,4 @@
 </tr>
 
 </table>
+</center>
