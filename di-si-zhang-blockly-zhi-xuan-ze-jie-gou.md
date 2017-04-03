@@ -158,6 +158,9 @@
 <center><img src="/assets/p79.png"/></center>
 <center><img src="/assets/p78.png"/></center>
 
+&emsp;是不是挺简单的呢？下面我们将前面学习的东西巩固下，并将训练的难度进行升级：<br>
+&emsp;①创建两个变量，并比较这两个数的大小。<br>
+&emsp;②创建三个变量，分别通过键盘复制，并将这三个数由小到大输出。
 
 
 
