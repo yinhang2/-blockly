@@ -148,3 +148,5 @@
 <center><img src="/assets/p163.png"/></center>
 
 &emsp;要更改所选类别名称或颜色，请使用“编辑类别”下拉菜单。 将块拖动到工作区中将将其添加到所选类别。
+<center><img src="/assets/p164.png"/></center>
+
