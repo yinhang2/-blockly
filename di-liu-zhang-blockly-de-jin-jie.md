@@ -100,5 +100,5 @@
 <center><img src="/assets/p150.png"/></center>
 
 &emsp;这些设置完毕，选择新块的输入方式，扩展式和嵌入式：
-<center><img src="/assets/p150.png"/></center>
+<center><img src="/assets/p151.png"/></center>
 
