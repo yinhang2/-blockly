@@ -21,4 +21,5 @@
 
 <strong>(2)有参函数的定义</strong>
 &emsp;与无参函数不同，有参函数需要在“设置”中对参数进行设置，拖动“输入名称：x”至右侧“输入”中，并对参数进行命名即可。
-<center><img src="/assets/p130.png"/></center>
+<center><img src="/assets/p131.png"/></center>
+
