@@ -5,6 +5,6 @@
 * [第二章 Blockly基础编程](di-er-zhang-blockly-ji-chu-bian-cheng.md)
 * [第三章 Blockly顺序程序设计](di-san-zhang-blockly-shun-xu-cheng-xu-she-ji.md)
 * [第四章 Blockly之选择结构](di-si-zhang-blockly-zhi-xuan-ze-jie-gou.md)
-* 第五章 循环结构
-* 第六章 Blockly的进阶
+* [第五章 循环结构](di-wu-zhang-xun-huan-jie-gou.md)
+* [第六章 Blockly的进阶](di-liu-zhang-blockly-de-jin-jie.md)
 
