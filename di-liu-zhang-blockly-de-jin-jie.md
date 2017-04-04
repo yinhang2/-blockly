@@ -109,3 +109,15 @@
 <center><img src="/assets/p153.png"/></center>
 
 &emsp;使用值输入和声明输入，可以很容易的设计出编程中常用的条件语句和循环语句：
+<center><img src="/assets/p154.png"/></center>
+
+&emsp;任务一：自己动手定义一个新块，并描述它的功能。
+### 6.2.2 管理库
+&emsp;块由其名称引用，因此要创建的每个块都必须具有唯一的名称。 用户界面强制执行此操作，并在您“保存”新块或“更新”现有块时清除。
+<center><img src="/assets/p155.png"/></center>
+<center><img src="/assets/p156.png"/></center>
+
+&emsp;您可以在先前保存的块之间切换，或通过单击库按钮创建新的空块。更改现有块的名称是快速创建具有类似定义的多个块的另一种方法。
+<center><img src="/assets/p157.png"/></center>
+
+### 6.2.3 导入和导出库
