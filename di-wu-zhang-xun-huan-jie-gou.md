@@ -51,3 +51,10 @@ Stop模块：配合swim模块，使我方停止。<br>
 &emsp;所以同样针对上面从1加到100的例子，我们只需要将条件i<=100改为i>100即可。
 <center><img src="/assets/p113.png"/></center>
 
+## 5.4 步长循环模块
+&emsp;步长循环模块使用最为灵活，不仅可以用于循环次数已经确定的情况，而且可以用于循环次数不确定而只给出循环结束条件的情况，它完全可以替代重复模块。
+<center><img src="/assets/p114.png"/></center>
+
+&emsp;在固定增量下有着固定循环次数的一段程序使用步长循环模块为宜。下面的循环将输出三次单词“Hello”。
+<center><img src="/assets/p115.png"/></center>
+
