@@ -40,3 +40,5 @@
 
 &emsp;下面来做一个小练习，设计一个求x, y中最大者的函数，名为Max(x, y)。
 
+<center><img src="/assets/p136.png"/></center>
+
