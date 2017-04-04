@@ -50,3 +50,6 @@
 <center><img src="/assets/p138.png"/></center>
 
 ## 6.2 Blockly开发工具
+&emsp;在前几章的学习中，每章开篇我们的小游戏环节，每个小游戏虽然是可视化编程，和我们学习的Blockly很像，但是又有所不同，而这些不同由何而来?这就是我们本章所讲的重点，Blockly开发工具(Blockly Developer Tools)，通过它用户可以自定义新块，这使得Blockly可扩展性大大提升，同时也是Blockly的灵活和强大之处。
+<center><img src="/assets/p139.png"/></center>
+
