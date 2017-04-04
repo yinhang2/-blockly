@@ -31,3 +31,5 @@
 <center><img src="/assets/p133.png"/></center>
 
 &emsp;当创建的函数需要返回值时，可直接从工具箱中拖动自带返回值的函数块，可见工具箱中生成的函数块左侧带有凸起的连接。
+<center><img src="/assets/p134.png"/></center>
+
