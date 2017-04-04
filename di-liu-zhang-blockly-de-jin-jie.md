@@ -98,4 +98,6 @@
 
 &emsp;在值输入中还可以添加域(field)，比如加入最简单的文本域，即可在输入中提示对应的文本，域中的下拉选择框可设置文本的对齐方式。
 <center><img src="/assets/p150.png"/></center>
+
 &emsp;这些设置完毕，选择新块的输入方式，扩展式和嵌入式：
+<center><img src="/assets/p150.png"/></center>
