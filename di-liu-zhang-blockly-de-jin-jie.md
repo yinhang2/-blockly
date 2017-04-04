@@ -53,3 +53,49 @@
 &emsp;在前几章的学习中，每章开篇我们的小游戏环节，每个小游戏虽然是可视化编程，和我们学习的Blockly很像，但是又有所不同，而这些不同由何而来?这就是我们本章所讲的重点，Blockly开发工具(Blockly Developer Tools)，通过它用户可以自定义新块，这使得Blockly可扩展性大大提升，同时也是Blockly的灵活和强大之处。
 <center><img src="/assets/p139.png"/></center>
 
+&emsp;本节面向希望在Blockly中创建新块的开发人员。它的基本要求是，有一个
+<center><img src="/assets/p140.png"/></center>
+
+&emsp;可以编辑的Blockly的本地副本，大体上熟悉了Blockly的使用，并且对JavaScript有一个基本的理解。
+<center><img src="/assets/p141.png"/></center>
+
+&emsp;Blockly带有大量的预定义块，从数学函数到循环结构的一切，然而为了与外部应用程序接口，必须创建自定义块以形成API。 例如，当创建绘图程序时，可能需要创建“绘制半径R的圆”块。而在大多数情况下，最简单的方法是找到一个已经存在的真正相似的块，复制它，并根据需要修改它。 <br>
+&emsp;第一步是创建一个块; 指定其形状，字段和连接点。 使用Blockly Developer Tools是编写此代码的最简单的方法，或者，可以在学习API之后手动编写该代码，高级块可以响应于用户或其他因素而动态地改变它们的形状。<br>
+&emsp;第二步是创建生成器代码以将新块导出为编程语言（例如JavaScript，Python，PHP，Lua或Dart）。为了生成既干净又正确的代码，必须注意给定语言的操作列表顺序，创建更复杂的块需要使用临时变量和调用函数，当输入使用两次并需要缓存时，这是尤为重要的。<br>
+&emsp;Blockly开发工具是一个基于Web的开发工具，可自动完成Blockly配置过程的各个部分，包括创建自定义块，构建工具箱和配置Web Blockly工作区。<br>
+&emsp;使用该工具的Blockly开发者进程包括三个部分：<br>
+&emsp;1、使用块工厂和块导出器创建自定义块。<br>
+&emsp;2、使用Workspace Factory构建工具箱和默认工作空间。<br>
+&emsp;3、使用Workspace Factory配置工作空间（当前是仅限Web的功能）。
+
+### 6.2.1 定义一个块
+<center><img src="/assets/p142.png"/></center>
+
+&emsp;定义一个块需要使用到Blockly开发工具中的块工厂(Block Factory),块工厂主要分为三个区域：<br>
+&emsp;（1）编辑区：对新增块进行设计和编辑<br>
+&emsp;（2）预览区：对编辑区编辑的块进行实时预览<br>
+&emsp;（3）代码区：代码区分为两个部分Language code和Generator stub，其中Language code 区指定和控制新增块所呈现的形状，Generator stub区负责新增块所要生成的代码。<br>
+&emsp;在编辑区的左侧，可以看到4个基本块，Input，Field，Type和Colour，它们是四个原料库，使用者可以从这些库中获取所需要的任意“原料”，来合成自己的新块。
+<center><img src="/assets/p143.png"/></center>
+
+&emsp;先从最简单的介绍，颜色(Colour)块，它默认定义了九种基本颜色，直接将你想要的颜色拖到右侧，拼接到对应的colour的凹槽，便可立即在预览区看到新块的颜色。
+<center><img src="/assets/p144.png"/></center>
+<center><img src="/assets/p145.png"/></center>
+
+&emsp;如果默认色彩中没有你想要的颜色，可以拖动任意色彩块到编辑区拼接完成后，点击色块中的数字，在色块的下方出现一个圆形的调色盘，转动调色盘，选择你喜欢的颜色。
+<center><img src="/assets/p146.png"/></center>
+
+&emsp;在Blockly中，同一类型的块通常采用相同的颜色，所以新块的颜色选择不能仅凭喜欢，还需要前后兼顾。<br>
+&emsp;一个新块不仅需要有颜色，还需要与其他块进行衔接，这就需要设计新增块的输入和输出，它们将决定新增块的功能、属性和类别。<>br
+&emsp;接下来看一看输入(Input)，这是新增块与其他块连接的接口之一。
+<center><img src="/assets/p147.png"/></center>
+
+&emsp;输入可以分为三种类型：值输入(value input)，声明输入(statement input)，模拟输入(dummy input)。首先以值输入为例，拖动值输入至右侧与Inputs连接，可看到预览区新增块多了一个凹槽:
+<center><img src="/assets/p148.png"/></center>
+
+&emsp;根据需要，使用者还可以添加多个输入值，但要注意多个输入值的名字不能相同，否则会出现警告，而且在后续调用的时候，也会冲突报错，新块名字也是如此，不能与其他块同名，就好比如果班里有两个学生名字一样，那老师点名提问的时候就有可能出现两个同学同时起立的尴尬。
+<center><img src="/assets/p149.png"/></center>
+
+&emsp;在值输入中还可以添加域(field)，比如加入最简单的文本域，即可在输入中提示对应的文本，域中的下拉选择框可设置文本的对齐方式。
+<center><img src="/assets/p150.png"/></center>
+&emsp;这些设置完毕，选择新块的输入方式，扩展式和嵌入式：
