@@ -102,3 +102,9 @@
 &emsp;这些设置完毕，选择新块的输入方式，扩展式和嵌入式：
 <center><img src="/assets/p151.png"/></center>
 
+&emsp;有了输入之后，别的块就可以很容易的通过凹槽加入到新块了，但是，这时另外一个值得考虑的问题又出现了，怎样将新增块加入到其他的块之中呢？我们有五种选择：
+<center><img src="/assets/p152.png"/></center>
+
+&emsp;看完值输入之后，再一起来看一下另一个常用的输入类型，声明输入(statement input)，它通常用作条件控制和循环控制。
+<center><img src="/assets/p153.png"/></center>
+
