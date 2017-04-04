@@ -10,3 +10,7 @@
 &emsp;<strong>(1)无参函数的定义</strong>
 <center><img src="/assets/p126.png"/></center>
 
+&emsp;上图是我们从Blockly工具箱中拖出的一个函数块，其中:对函数进行参数的设置，无参函数不需要用到此选项
+<center><img src="/assets/p127.png"/></center>
+
+对工具箱中的Blockly有了简单的了解之后，尝试动手设计自己的函数。
