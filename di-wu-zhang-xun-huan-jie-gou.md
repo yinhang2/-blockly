@@ -26,3 +26,14 @@ Stop模块：配合swim模块，使我方停止。<br>
 <center><img src="/assets/p106.png"/></center>
 
 例如我们要循环三次输出“Hello World”，则只要在重复次数模块的数字块中写入“3”即可。
+<center><img src="/assets/p107.png"/></center>
+
+## 5.3 重复模块
+重复模块中包含了两种不同类型的循环模式：重复-当和重复-直到。
+<center><img src="/assets/p108.png"/></center>
+<center><img src="/assets/p109.png"/></center>
+
+重复-当模块用来实现“当型”循环结构，只要程序的执行条件为真，就会重复执行语句的一系列程序。在未运行前，实际的重复次数是未知的。
+<center><img src="/assets/p110.png"/></center>
+
+它需要与逻辑语句组合使用，当条件满足时它将重复不断的执行直到条件不满足，所以可能出现的情况是：由于一个逻辑错误，循环将相应代码段重复运行无数次，这对初学者来说是很常见的。
