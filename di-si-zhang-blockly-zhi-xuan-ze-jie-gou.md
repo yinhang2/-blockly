@@ -164,7 +164,7 @@
 解析：<br>
 &emsp;①我们比较两个数的大小时，有三种情况，大于小于和等于，因此就要用到if条件语句进行两次判断，剩下的一种情况直接用else即可，
 “to result append text”这个语句是字符串追加的意思，就是我们不仅仅只输出一个数字，而是输出整个结果，比如2>1，2=2，2<3这样的结果。
-<center><img src="/assets/p80.png"/></center>
+<center><img src="/assets/p193.png"/></center>
 
 输出结果如下所示：
 <center><img src="/assets/p81.png"/></center>
