@@ -187,3 +187,5 @@ Python环境中的运行结果：
 <center><img src="/assets/p171.png"/></center>
 
 上面是程序的主体部分，包括循环、提示和中断。
+<center><img src="/assets/p172.png"/></center>
+
