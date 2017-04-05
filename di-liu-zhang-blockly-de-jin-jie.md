@@ -163,3 +163,18 @@
 
 <strong>(6)导出</strong>
 &emsp;工作区工厂提供以下导出选项：
+<center><img src="/assets/p167.png"/></center>
+
+&emsp;◎Starter Code：生成html和javascript以注入您的自定义Blockly工作区。<br>
+&emsp;◎工具箱生成XML以指定您的工具箱。<br>
+&emsp;◎工作区块生成可以加载到工作区中的XML。<br>
+<strong>(7)更多创建自定义块的信息，可参考Google Blockly:</strong><br>
+https://developers.google.com/blockly/guides/create-custom-blocks/overview
+## 6.3 Blockly的高级使用
+&emsp;在之前的学习中，我们通过使用Blockly，学习一些基础程序设计中的经典的例子，并通过Blockly的可视化代码编辑器，进行了编程的实践练习,我们所接触和使用的这些，并不是Blockly设计的初衷。Blockly是一个库，它为Web和Android应用程序添加了一个可视化代码编辑器，Blockly编辑器使用互锁的图形块来表示代码概念，如变量，逻辑表达式，循环等，它允许用户应用编程原则，而不必担心语法或命令行上闪烁的光标。
+### 6.3.1将Blockly作为代码生成器
+&emsp;每个人不可能精通甚至熟悉每一种语言，但有时候，在学习、工作中又可能会用到所未接触过的语言，如果我们没有额外的时间且精力，尤其当这种语言再极少使用时，我们可能不乐意去花时间和精力去学习，但又不得不用，于是经常陷入两难。针对这一常见现象，我们就可以使用Blockly作为代码生成工具。<br>
+(1)假如现在我们需要一个判断平年闰年的Python代码的小例子，但我们之前又没接触过Python，我们又不想学习Python，那么就可以打开Blockly，在编辑区拖动块来编写:
+<center><img src="/assets/p168.png"/></center>
+
+拖动完成，验证无误，点击Python选项卡，复制代码至你的Python环境中，即可直接运行。
