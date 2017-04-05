@@ -181,3 +181,5 @@ https://developers.google.com/blockly/guides/create-custom-blocks/overview
 <center><img src="/assets/p169.png"/></center>
 
 Python环境中的运行结果：
+<center><img src="/assets/p170.png"/></center>
+
