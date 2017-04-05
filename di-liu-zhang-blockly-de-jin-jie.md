@@ -211,3 +211,6 @@ Flag：开关变量，用于标记是否猜对，从而决定是否提示下方�
 <center><img src="/assets/p179.png"/></center>
 <center><img src="/assets/p180.png"/></center>
 
+如果不进行强制类型转换，执行脚本时可能会报错，即使不报错，结果也可能不正确。但这一问题在JavaScript导出代码中不存在，兼容性良好。
+<center><img src="/assets/p181.png"/></center>
+
