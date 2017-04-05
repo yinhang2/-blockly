@@ -214,3 +214,32 @@ Flag：开关变量，用于标记是否猜对，从而决定是否提示下方�
 如果不进行强制类型转换，执行脚本时可能会报错，即使不报错，结果也可能不正确。但这一问题在JavaScript导出代码中不存在，兼容性良好。
 <center><img src="/assets/p181.png"/></center>
 
+◎对于JavaScript代码的测试，可以导入到html中，在浏览器中执行，测试效果与Blockly中效果相同。html代码如下：
+<center><img src="/assets/p182.png"/></center>
+
+本条注意事项专门针对没有JavaScript基础，但是对Blockly代码生成工具又感兴趣，想亲手测试验证的读者。
+&emsp;关于Blockly作为代码生成工具的使用，我们这里只举了两个基础的，有代表性的例子，当然如果你学有余力或者对所生成的目标代码十分熟悉，可以自行尝试更加有趣、更加复杂的例子，如果你觉得这并不能满足你的需求，那么可以尝试自己动手定义你想要的块，生成代码的格式、类型和种类。
+### 6.3.2 Blockly的二次开发
+&emsp;随着Blockly逐渐的完善，它被越来越多的人所熟知，同时，凭借它可视化编程，良好的可扩展性等特点，很多的开发者利用Blockly进行二次开发,因此衍生出许多优秀的产品和工具。
+<center><img src="/assets/p183.png"/></center>
+<center><img src="/assets/p184.png"/></center>
+
+&emsp;前面曾提到过，Blockly的初衷是针对开发人员设计的，它是一个针对有经验的开发人员的复杂库。从用户的角度来看，Blockly是一种直观，可视化的构建代码的方法。从开发人员的角度来看，Blockly本质上是一个包含正确语法、生成代码的文本框， Blockly可以导出多种语言，例如JavaScript，Python，PHP，Lua，Dart等，下面是对Blockly进行二次开发的步骤：<br>
+a.集成块编辑器。 Blockly编辑器包括用于存储块类型的工具箱和用于排列块的工作空间。<br>
+b.创建应用程序的块。 一旦你的应用程序中有Blockly，你就需要创建块供用户编码，然后将它们添加到您的Blockly工具箱。<br>
+c.构建应用程序的其余部分。 本身，Blockly只是一种生成代码的方法, 你的应用程序的核心在于如何处理该代码。<br>
+&emsp;可能单纯的文字描述比较抽象，难以理解，以FreDuino为例，它是基于Blockly二次开发而成的一个远程硬件控制平台。
+<center><img src="/assets/p185.png"/></center>
+
+a.集成块编辑器，在工具箱里增添了与硬件外设进行交互的编码块。
+<center><img src="/assets/p186.png"/></center>
+
+b.创建应用程序块，实现了Blockly块与硬件控制代码之间的转换。
+<center><img src="/assets/p187.png"/></center>
+
+c.在构建应用程序部分，通过与硬件外设建立通信，实现代码的上传，进而完成与硬件的交互。
+<center><img src="/assets/p188.png"/></center>
+
+&emsp;FreDuino就是通过上述三个步骤而诞生的，实现了对硬件外设的远程可视化控制。
+<center><img src="/assets/p189.png"/></center>
+
