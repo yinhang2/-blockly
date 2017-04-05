@@ -178,3 +178,5 @@ https://developers.google.com/blockly/guides/create-custom-blocks/overview
 <center><img src="/assets/p168.png"/></center>
 
 拖动完成，验证无误，点击Python选项卡，复制代码至你的Python环境中，即可直接运行。
+<center><img src="/assets/p169.png"/></center>
+
