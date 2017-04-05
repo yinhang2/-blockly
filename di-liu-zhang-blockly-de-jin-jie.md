@@ -201,5 +201,10 @@ Flag：开关变量，用于标记是否猜对，从而决定是否提示下方�
 <center><img src="/assets/p176.png"/></center>
 
 将保存后的js代码导入到html文件中测试。
+<center><img src="/assets/p177.png"/></center>
+
+当然，也可以把猜数字小游戏的Python代码导出，同样可执行。
+<center><img src="/assets/p178.png"/></center>
+
 
 
