@@ -183,3 +183,7 @@ https://developers.google.com/blockly/guides/create-custom-blocks/overview
 Python环境中的运行结果：
 <center><img src="/assets/p170.png"/></center>
 
+(2)假如现在需要一个JavaScript的执行脚本，而且我们对JavaScript也有所了解，我们也可以尝试在Blockly中进行编程开发，比如这个猜数字的小游戏：
+<center><img src="/assets/p171.png"/></center>
+
+上面是程序的主体部分，包括循环、提示和中断。
