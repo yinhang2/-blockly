@@ -195,3 +195,4 @@ Python环境中的运行结果：
 Flag：开关变量，用于标记是否猜对，从而决定是否提示下方内容。
 <center><img src="/assets/p173.png"/></center>
 
+同样，验证无误后，点击JavaScript选项卡，复制js代码并保存。
