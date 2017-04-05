@@ -189,3 +189,9 @@ Python环境中的运行结果：
 上面是程序的主体部分，包括循环、提示和中断。
 <center><img src="/assets/p172.png"/></center>
 
+在程序之前，创建了三个变量并进行了初始化:<br>
+&emsp;步长:用于计数，针对猜的次数进行不同的提示。<br>
+&emsp;Target：存放随机生成的目标数，与所猜数Number进行比较。<br>
+Flag：开关变量，用于标记是否猜对，从而决定是否提示下方内容。
+<center><img src="/assets/p173.png"/></center>
+
