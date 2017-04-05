@@ -206,5 +206,8 @@ Flag：开关变量，用于标记是否猜对，从而决定是否提示下方�
 当然，也可以把猜数字小游戏的Python代码导出，同样可执行。
 <center><img src="/assets/p178.png"/></center>
 
-
+<strong>注意:</strong><br>
+◎ Python代码的导出执行，当程序涉及输入且输入的是数字时，需要使用int()，将输入的字符串型“数字”强制类型转换成整型。
+<center><img src="/assets/p179.png"/></center>
+<center><img src="/assets/p180.png"/></center>
 
