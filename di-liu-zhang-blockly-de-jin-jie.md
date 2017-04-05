@@ -200,5 +200,6 @@ Flag：开关变量，用于标记是否猜对，从而决定是否提示下方�
 <center><img src="/assets/p175.png"/></center>
 <center><img src="/assets/p176.png"/></center>
 
+将保存后的js代码导入到html文件中测试。
 
 
