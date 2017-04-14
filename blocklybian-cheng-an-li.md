@@ -13,3 +13,6 @@
 1、正数的原码反码和补码都是相同的，因此只要求出一个即可，我们通常用栈来实现向二进制的转换，blockly提供list作为指针数组，如下图所示：
 <center><img src="/assets/p2000.png"/></center>
 
+该数组提供从头尾插入和删除元素，并能在指定位置提取元素：
+<center><img src="/assets/p2001.png"/></center>
+
