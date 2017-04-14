@@ -7,5 +7,6 @@
 * [第四章 Blockly之选择结构](di-si-zhang-blockly-zhi-xuan-ze-jie-gou.md)
 * [第五章 循环结构](di-wu-zhang-xun-huan-jie-gou.md)
 * [第六章 Blockly的进阶](di-liu-zhang-blockly-de-jin-jie.md)
+* [Blockly编程案例](blocklybian-cheng-an-li.md)
 * [下载](xia-zai.md)
 
