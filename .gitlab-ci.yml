@@ -1,0 +1,11 @@
+before_script:
+  - which gitbook
+
+deploy:
+  script:
+    - gitbook install
+    - gitbook build
+    - bash ./deploy.sh
+  tags:
+    - gitbook
+
