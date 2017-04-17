@@ -14,7 +14,11 @@
 <center><img src="/assets/p2000.png"/></center>
 
 栈操作实际上就是一种先进后出的数据结构：
-<center><img src="/assets/p2001.png"/></center>
+<center><img src="/assets/p2002.png"/></center>
 
-该数组提供从头尾插入和删除元素，并能在指定位置提取元素：
+我们举一个例子，比如求29的原码，那么过程如下：
+<center><img src="/assets/p2003.png"/></center>
+<center><img src="/assets/p2004.png"/></center>
+
+list数组提供从头尾插入和删除元素，并能在指定位置提取元素：
 <center><img src="/assets/p2001.png"/></center>
