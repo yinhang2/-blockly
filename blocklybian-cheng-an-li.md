@@ -42,3 +42,7 @@ list数组提供从头尾插入和删除元素，并能在指定位置提取元�
 * 输入2 -- 取汽水
 * 输入3 -- 退币
 * 输入4 -- 退出系统
+<center><img src="/assets/p2009.png"/></center>
+
+<center><img src="/assets/p2010.png"/></center>
+
