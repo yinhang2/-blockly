@@ -1,4 +1,4 @@
-<center><img src="/assets/1001.png" width="80%" height="90%"/>
+<center><img src="/assets/theme_pic.png" width="80%" height="90%"/>
 <center><h2>前言</h2></center>
 ---
 ---
