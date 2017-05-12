@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3、每章最后提供本单元的知识汇总图，对本章节知识技能和编程要点进行梳理。在每章学习结束后，可以参考知识汇总图来总结自己的知识掌握情况，反思学习效果。<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本书可以作为算法与程序设计初学者的教材参考书，也可以是编程爱好者快速了解Google Blockly的使用指南，同时可以作为高中信息技术课程算法与程序设计课程的教学活动参考书。<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;非常感谢帮我们完成这本书的朋友，我们在此向他们致谢：邓文博，Google Blockly教学应用手册；李鹏，Blockly编程基础；胡轶凛，Blockly顺序程序设计；尹航，Blockly之选择结构；漆昱涛，循环结构；郅鹏，Blockly的进阶；魏小辉，进行整本书的修订和审核。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;非常感谢帮我们完成这本书的朋友，我们在此向他们致谢：周庆国，主编；邓文博，Google Blockly教学应用手册；李鹏，Blockly编程基础；胡轶凛，Blockly顺序程序设计；尹航，Blockly之选择结构；漆昱涛，循环结构；郅鹏，Blockly的进阶；魏小辉，进行整本书的修订和审核。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在本书编辑过程中不免有纰漏，欢迎读者批评指正。
 
 <h6 align="right">编者按&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
