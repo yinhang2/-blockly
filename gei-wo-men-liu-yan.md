@@ -24,5 +24,9 @@
 
 ## 如何和我们一起编写《跟我玩Blockly》
 
-(1)首先呢你要进入这本书的github地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) （github实际上可以托管《跟我玩Blockly》这本书的代码，并提供代码下载和上传功能）
+(1)首先呢你要进入这本书的github地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) （github实际上可以托管《跟我玩Blockly》这本书的代码，并提供代码下载功能）
+<center><img src="/assets/g17.png"/></center>
+
+
+
 
