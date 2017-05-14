@@ -32,6 +32,10 @@
 (3)现在你就相当于拥有这本书了，然后你需要创建一个新的分支，相当于拷贝一份，这样即使修改错了，你还有个主分支备份。
 <center><img src="/assets/g21.png"/></center>
 
+(4)进入这个分支，你可以点进任何一章的代码文件对其进行修改，修改后拉到最下方提交。
+<center><img src="/assets/g22.png"/></center>
+<center><img src="/assets/g23.png"/></center>
+<center><img src="/assets/g24.png"/></center>
 
 
 
