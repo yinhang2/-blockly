@@ -41,9 +41,10 @@
 <center><img src="/assets/g25.png"/></center>
 
 (6)填写完信息后，点击“create pull request”
-<center><img src="/assets/g24.png"/></center>
+<center><img src="/assets/g26.png"/></center>
 
-
+(7)您的修改内容就发给我们了（如下图所示），我们会尽快去查看，如果审核通过，就会将您修改的内容添加到《跟我玩Blockly》这本书中。
+<center><img src="/assets/g19.png"/></center>
 
 
 
