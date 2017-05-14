@@ -37,7 +37,7 @@
 <center><img src="/assets/g23.png"/></center>
 <center><img src="/assets/g24.png"/></center>
 
-
+(5)这就相当于在你的《跟我玩Blockly》修改完成了，然后你可以将这些改进发给我们：
 
 
 
