@@ -13,6 +13,7 @@
 &emsp;以上内容是对整个文章进行评论，您也可以在文章的指定位置进行评论：<br>
 (1)在手机上阅读时，翻到想要评论的位置，向左滑动手机屏幕，右方就会出现评论区：
 <center><img src="/assets/g11.png"/></center>
+<center><img src="/assets/g12.png"/></center>
 
 
 
