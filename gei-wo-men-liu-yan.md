@@ -24,8 +24,16 @@
 
 ## 如何和我们一起编写《跟我玩Blockly》
 
-(1)首先呢你要进入这本书的github地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) （github实际上可以托管《跟我玩Blockly》这本书的代码，并提供代码下载功能）
-<center><img src="/assets/g17.png"/></center>
+(1)首先你要进入这本书的github地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) （github实际上可以托管《跟我玩Blockly》这本书的代码，并提供代码下载功能）
+
+(2)我们点击右上角的fork，这个fork实际上就是相当于把《跟我玩Blockly》这本书复制到你自己的账户下，然后你可以对其进行修改。
+<center><img src="/assets/g20.png"/></center>
+
+(3)现在你就相当于拥有这本书了，然后你需要创建一个新的分支，相当于拷贝一份，这样即使修改错了，你还有个主分支备份。
+<center><img src="/assets/g21.png"/></center>
+
+
+
 
 
 
