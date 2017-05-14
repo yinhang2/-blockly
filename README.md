@@ -16,6 +16,3 @@
 <h6 align="right">兰州&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </h6>                                      
 <h6 align="right">2017年3月20日
-
-
-这是修改的部分。
