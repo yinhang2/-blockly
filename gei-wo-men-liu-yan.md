@@ -49,4 +49,4 @@
 &emsp;我们非常欢迎大家能为我们提出宝贵的意见，来共同协作完成《跟我玩Blockly》的开发。
 
 ## 协作视频教程
-<center><iframe frameborder="0" width="80%" height="60%" src="https://v.qq.com/iframe/player.html?vid=y0504ll4zto&tiny=0&auto=0" allowfullscreen></iframe></center>
+<center><iframe frameborder="0" width="80%" height="100%" src="https://v.qq.com/iframe/player.html?vid=y0504ll4zto&tiny=0&auto=0" allowfullscreen></iframe></center>
