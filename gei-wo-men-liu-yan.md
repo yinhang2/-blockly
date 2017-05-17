@@ -37,7 +37,8 @@
 <center><img src="/assets/g23.png"/></center>
 <center><img src="/assets/g24.png"/></center>
 
-(5)这就相当于在你的《跟我玩Blockly》修改完成了，然后你可以将这些改进发给我们，进入第一步的地址：[https://github.com/yinhang2/-blockly](https://github.com/yinhang2/-blockly) 然后提出合并请求：
+(5)这就相当于在你的《跟我玩Blockly》修改完成了，然后你可以将这些改进发给我们，重新回到你这本书的仓库（我们以weixh这个用户为例）：[https://github.com/weixh/-blockly](https://github.com/weixh/-blockly) ，先切换到我们刚才创建的weixh分支，然后提出合并请求：
+
 <center><img src="/assets/g25.png"/></center>
 
 (6)填写完信息后，点击“create pull request”
