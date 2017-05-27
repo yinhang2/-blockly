@@ -50,3 +50,7 @@
 
 ## 协作视频教程
 <center><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y0504ll4zto&tiny=0&auto=0" allowfullscreen></iframe></center>
+
+## 如何进行cooc课程的建立以及合作创建在线课程
+&emsp;我们利用的是gitbook和github，gitbook实际上是一种呈现方式，就是以书籍的形式展现给大家，但是它自己本身不能进行合作和分工，如果添加这一部分内容还需借助github，github可以进行代码的托管，版本的控制，并且代码开源，我们如果想要协作创建课程，主要经过一下步骤：（我们以yinhang2和wxh121001这两个账户为例，yinhang2是书的创建者，wxh121001是合作人）
+（1）

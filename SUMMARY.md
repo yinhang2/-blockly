@@ -10,4 +10,5 @@
 * [Blockly编程案例](blocklybian-cheng-an-li.md)
 * [教材与资源下载](xia-zai.md)
 * [加入我们](gei-wo-men-liu-yan.md)
+* [FreDuino的故事](freduinode-gu-shi.md)
 
