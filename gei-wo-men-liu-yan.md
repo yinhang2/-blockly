@@ -2,6 +2,12 @@
 
 &emsp;我们编写Blockly这本书，是想和大家一起学习和分享Google Blockly在编程和应用方面的乐趣，希望广大读者能帮住我们完善和指正教材中不足的地方，使这本书让更多的人受益。我们十分欢迎您能为我们提出宝贵的意见，互相借鉴和学习。<br>
 
+## 如何进行cooc课程的建立以及合作创建在线课程
+&emsp;我们利用的是gitbook和github，gitbook实际上是一种呈现方式，就是以书籍的形式展现给大家，但是它自己本身不能进行合作和分工，如果添加这一部分内容还需借助github，github可以进行代码的托管，版本的控制，并且代码开源，我们如果想要协作创建课程，主要经过以下步骤：（我们以yinhang2和wxh121001这两个账户为例，yinhang2是书的创建者，wxh121001是合作人）
+（1）yinhang2需要有github和gitbook账号，并在gitbook上创建一本书，然后在github中创建一个仓库，使这本书与这个仓库进行双向连接，双向连接的作用就是只要其中一放有变动，另一方都会监听从而同步。
+
+（2）我们假如wxh121001是同事的话，那么yinhang2可以直接在github上添加collaborators就行了。但是如果wxh121001是同事，那么直接添加为writers这种行为就很危险，因为他有这个权限以后就可以随时更改书籍，而且可以不经过你的同意，因此，对于非同事，采用fork-pull request机制是非常安全的。
+
 ## 怎样在线评论和提出建议？
 &emsp;(1)如果您使用手机阅读：
 <center><img src="/assets/ga.png"/></center>
@@ -51,6 +57,3 @@
 ## 协作视频教程
 <center><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y0504ll4zto&tiny=0&auto=0" allowfullscreen></iframe></center>
 
-## 如何进行cooc课程的建立以及合作创建在线课程
-&emsp;我们利用的是gitbook和github，gitbook实际上是一种呈现方式，就是以书籍的形式展现给大家，但是它自己本身不能进行合作和分工，如果添加这一部分内容还需借助github，github可以进行代码的托管，版本的控制，并且代码开源，我们如果想要协作创建课程，主要经过一下步骤：（我们以yinhang2和wxh121001这两个账户为例，yinhang2是书的创建者，wxh121001是合作人）
-（1）
