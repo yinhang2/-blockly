@@ -57,8 +57,7 @@
 (7)您的修改内容就发给我们了（如下图所示），我们会尽快去查看，如果审核通过，就会将您修改的内容添加到《跟我玩Blockly》这本书中。
 <center><img src="/assets/g19.png"/></center>
 
-&emsp;我们非常欢迎大家能为我们提出宝贵的意见，来共同协作完成《跟我玩Blockly》的开发。
-
-## 协作视频教程
+&emsp;我们非常欢迎大家能为我们提出宝贵的意见，来共同协作完成《跟我玩Blockly》的开发。<br>
+<strong>视频教程:</strong>
 <center><iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=y0504ll4zto&tiny=0&auto=0" allowfullscreen></iframe></center>
 
