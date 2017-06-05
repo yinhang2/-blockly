@@ -8,7 +8,7 @@
 
 <strong>培训课件下载：<strong>
 
-<strong>老师提供的资料下载：<strong>
+<strong>老师提供的资料下载：<strong>&emsp;
 [https://pan.baidu.com/s/1eRJkZy6](https://pan.baidu.com/s/1eRJkZy6)
 
 <strong>三天课程内容：</strong><br>
